@@ -1,7 +1,7 @@
 # Calculadora-javascript-udemy :rocket:
  Repositório responsável por armazenar o primeiro projeto desenvolvido em **JavaScript** durante o curso *JavaScript - Curso COMPLETO com 6 projetos reais* da *Udemy*.
 
- ## Sobre o projeto :calc:
+ ## Sobre o projeto
 
  ![Gif Calculadora](gif.gif)
 
